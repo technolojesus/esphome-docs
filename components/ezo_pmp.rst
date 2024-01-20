@@ -526,7 +526,7 @@ as components that have UI rendering. This could be done using templates in ESPH
     i2c:
 
     ezo_pmp:
-      id: ezo_pmp
+      id: ezo_pump
 
     number:
       - platform: template
